@@ -5,7 +5,7 @@ Built for learning and quick deployment on platforms like **Vercel**.
 
 ---
 ## 🚀 Live Website
-[Click here to visit the live site](https://your-deployment-link.com)
+[Click here](https://blog-app-theta-dun.vercel.app/blogs)
 
 ---
 
